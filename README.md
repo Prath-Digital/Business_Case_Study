@@ -130,3 +130,18 @@ Special thanks to all contributors and learners who help improve this resource! 
           <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Work/Self Excercise/ch_1/lec_1.1">Self Exercise</a></span>
         </td>
       </tr>
+      <tr style="background:#222; color:#fff">
+        <td style="padding:10px 8px;border:2px solid #000;">1.2</td>
+        <td style="padding:10px 8px;border:2px solid #000;">
+          <ul style="margin:0;padding-left:18px;">
+            <li><span style="color:#d32f2f;">Types of Statistics</span></li>
+            <li><span style="color:#1976d2;">What Is Descriptive Statistics?</span></li>
+            <li><span style="color:#388e3c;">Measures of Central Tendency - Mean,Median,Mode</span></li>
+            <li><span style="color:#fbc02d;">Measures of Dispersion - Range,Variance,Standard Deviation</span></li>
+          </ul>
+          <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Work/Lab Work/ch_1/lec_1.2/">Lab Work</a></span>
+          <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Work/Self Excercise/ch_1/lec_1.2">Self Exercise</a></span>
+        </td>
+      </tr>
+        </td>
+      </tr>
