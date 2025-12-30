@@ -25,6 +25,7 @@ Welcome to the **Business Case Study** repository! 📚 This project is designed
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - 🐍 Python 3.8+
 - 📦 Jupyter Notebook
 - 📊 Data analysis libraries (pandas, numpy, matplotlib)
@@ -47,10 +48,12 @@ python -m pip install jupyter pandas numpy matplotlib
 ## 📖 How to Use
 
 1. **Explore Lab Work** 🔬
+
    - Navigate to `Work/Lab work/` to access interactive Jupyter notebooks
    - Run cells sequentially to understand concepts step-by-step
 
 2. **Complete Self Exercises** ✏️
+
    - Review materials in `Work/Self Exercise/`
    - Practice with hands-on problems and case studies
 
@@ -73,6 +76,7 @@ python -m pip install jupyter pandas numpy matplotlib
 ## 🤝 Contributing
 
 Contributions are welcome! 🎉 Feel free to:
+
 - 🐛 Report issues
 - 💾 Submit pull requests
 - 📝 Suggest improvements
@@ -143,5 +147,25 @@ Special thanks to all contributors and learners who help improve this resource! 
           <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Work/Self Excercise/ch_1/lec_1.2">Self Exercise</a></span>
         </td>
       </tr>
+      <tr style="background:#fff; color:#000;">
+        <td style="padding:10px 8px;border:2px solid #000;">1.1</td>
+        <td style="padding:10px 8px;border:2px solid #000;">
+          <ul style="margin:0;padding-left:18px;">
+            <li><span style="color:#d32f2f;">Gaussian (Normal) Distribution</span></li>
+            <li><span style="color:#1976d2;">Percentiles and Quartiles</span></li>
+            <li><span style="color:#388e3c;">Five number summary and boxplot</span></li>
+            <li><span style="color:#fbc02d;">Whats Is Inferential Statistics?</span></li>
+          </ul>
+          <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Work/Lab Work/ch_1/lec_1.3/">Lab Work</a></span>
+          <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Work/Self Excercise/ch_1/lec_1.3">Self Exercise</a></span>
         </td>
       </tr>
+    </tbody>
+  </table>
+</details>
+
+> **Note:** This repo is licensed under the MIT License - see the LICENSE file for details. ⚖️
+
+> **Bring on your coding attitude**
+
+> 🎓✨ Please star this repo for more motivation
